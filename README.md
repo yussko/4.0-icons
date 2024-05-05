@@ -1,1 +1,1 @@
-# 4.0-icons
+# Nopixel 4.0 Inventory Icons
